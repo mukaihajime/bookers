@@ -1,0 +1,4 @@
+{
+  "terminal.integrated.shell.windows": "ubuntu1804.exe",
+  "terminal.integrated.shellArgs.windows": ["run", "/bin/bash"]
+}
